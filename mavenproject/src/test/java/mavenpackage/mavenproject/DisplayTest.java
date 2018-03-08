@@ -6,6 +6,7 @@ public class DisplayTest {
 	{
 		System.out.println("good");
 		System.out.println("bad");
+		System.out.println("badddddddd");
 		// TODO Auto-generated method stub
 
 	}
